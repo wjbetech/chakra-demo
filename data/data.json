@@ -1,0 +1,146 @@
+{
+  "metal_bands": [
+    {
+      "id": 1,
+      "name": "Metallica",
+      "dateFormed": "1981",
+      "nationality": "United States",
+      "albumSales": 125000000,
+      "members": 4,
+      "albums": 10,
+      "label": "Blackened Recordings",
+      "subgenre": "Thrash Metal",
+      "img": "/assets/metallica.png"
+    },
+    {
+      "id": 2,
+      "name": "Iron Maiden",
+      "dateFormed": "1975",
+      "nationality": "United Kingdom",
+      "albumSales": 100000000,
+      "members": 6,
+      "albums": 17,
+      "label": "Parlophone",
+      "subgenre": "Heavy Metal",
+      "img": "/assets/ironmaiden.png"
+
+    },
+    {
+      "id": 3,
+      "name": "Black Sabbath",
+      "dateFormed": "1968",
+      "nationality": "United Kingdom",
+      "albumSales": 75000000,
+      "members": 4,
+      "albums": 19,
+      "label": "Vertigo Records",
+      "subgenre": "Doom Metal",
+      "img": "/assets/blacksabbath.png"
+
+    },
+    {
+      "id": 4,
+      "name": "Slipknot",
+      "dateFormed": "1995",
+      "nationality": "United States",
+      "albumSales": 30000000,
+      "members": 9,
+      "albums": 6,
+      "label": "Roadrunner Records",
+      "subgenre": "Nu Metal",
+      "img": "/assets/slipknot.png"
+
+    },
+    {
+      "id": 5,
+      "name": "Tool",
+      "dateFormed": "1990",
+      "nationality": "United States",
+      "albumSales": 25000000,
+      "members": 4,
+      "albums": 5,
+      "label": "Volcano Entertainment",
+      "subgenre": "Progressive Metal",
+      "img": "/assets/tool.png"
+
+    },
+    {
+      "id": 6,
+      "name": "Ghost",
+      "dateFormed": "2006",
+      "nationality": "Sweden",
+      "albumSales": 3500000,
+      "members": 7,
+      "albums": 4,
+      "label": "Loma Vista Recordings",
+      "subgenre": "Heavy Metal",
+      "img": "/assets/ghost.png"
+
+    },
+    {
+      "id": 7,
+      "name": "Gojira",
+      "dateFormed": "1996",
+      "nationality": "France",
+      "albumSales": 4000000,
+      "members": 4,
+      "albums": 7,
+      "label": "Roadrunner Records",
+      "subgenre": "Progressive Metal",
+      "img": "/assets/gojira.png"
+
+    },
+    {
+      "id": 8,
+      "name": "Mastodon",
+      "dateFormed": "2000",
+      "nationality": "United States",
+      "albumSales": 3000000,
+      "members": 4,
+      "albums": 8,
+      "label": "Reprise Records",
+      "subgenre": "Progressive Metal",
+      "img": "/assets/mastodon.png"
+
+    },
+    {
+      "id": 9,
+      "name": "Sabaton",
+      "dateFormed": "1999",
+      "nationality": "Sweden",
+      "albumSales": 2000000,
+      "members": 5,
+      "albums": 10,
+      "label": "Nuclear Blast",
+      "subgenre": "Power Metal",
+      "img": "/assets/sabaton.png"
+
+    },
+    {
+      "id": 10,
+      "name": "Parkway Drive",
+      "dateFormed": "2003",
+      "nationality": "Australia",
+      "albumSales": 1500000,
+      "members": 5,
+      "albums": 6,
+      "label": "Epitaph Records",
+      "subgenre": "Metalcore",
+      "img": "/assets/parkwaydrive.png"
+
+    },
+    {
+      "id": 11,
+      "name": "Trivium",
+      "dateFormed": "1999",
+      "nationality": "United States",
+      "albumSales": 3000000,
+      "members": 4,
+      "albums": 10,
+      "label": "Roadrunner Records",
+      "subgenre": "Metalcore",
+      "img": "/assets/trivium.png"
+
+    }
+  ]
+}
