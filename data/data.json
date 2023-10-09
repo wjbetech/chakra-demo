@@ -10,7 +10,8 @@
       "albums": 10,
       "label": "Blackened Recordings",
       "subgenre": "Thrash Metal",
-      "img": "/assets/metallica.png"
+      "img": "/assets/metallica.png",
+      "history": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo odio ut quisquam eveniet quo culpa, sint facilis, reiciendis repudiandae assumenda repellat eaque provident doloremque nesciunt, ipsam quas fuga. Ullam, eaque!"
     },
     {
       "id": 2,
@@ -22,8 +23,8 @@
       "albums": 17,
       "label": "Parlophone",
       "subgenre": "Heavy Metal",
-      "img": "/assets/ironmaiden.png"
-
+      "img": "/assets/ironmaiden.png",
+      "history": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo odio ut quisquam eveniet quo culpa, sint facilis, reiciendis repudiandae assumenda repellat eaque provident doloremque nesciunt, ipsam quas fuga. Ullam, eaque!"
     },
     {
       "id": 3,
@@ -35,8 +36,8 @@
       "albums": 19,
       "label": "Vertigo Records",
       "subgenre": "Doom Metal",
-      "img": "/assets/blacksabbath.png"
-
+      "img": "/assets/blacksabbath.png",
+      "history": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo odio ut quisquam eveniet quo culpa, sint facilis, reiciendis repudiandae assumenda repellat eaque provident doloremque nesciunt, ipsam quas fuga. Ullam, eaque!"
     },
     {
       "id": 4,
@@ -48,8 +49,8 @@
       "albums": 6,
       "label": "Roadrunner Records",
       "subgenre": "Nu Metal",
-      "img": "/assets/slipknot.png"
-
+      "img": "/assets/slipknot.png",
+      "history": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo odio ut quisquam eveniet quo culpa, sint facilis, reiciendis repudiandae assumenda repellat eaque provident doloremque nesciunt, ipsam quas fuga. Ullam, eaque!"
     },
     {
       "id": 5,
@@ -61,8 +62,8 @@
       "albums": 5,
       "label": "Volcano Entertainment",
       "subgenre": "Progressive Metal",
-      "img": "/assets/tool.png"
-
+      "img": "/assets/tool.png",
+      "history": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo odio ut quisquam eveniet quo culpa, sint facilis, reiciendis repudiandae assumenda repellat eaque provident doloremque nesciunt, ipsam quas fuga. Ullam, eaque!"
     },
     {
       "id": 6,
@@ -74,8 +75,8 @@
       "albums": 4,
       "label": "Loma Vista Recordings",
       "subgenre": "Heavy Metal",
-      "img": "/assets/ghost.png"
-
+      "img": "/assets/ghost.png",
+      "history": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo odio ut quisquam eveniet quo culpa, sint facilis, reiciendis repudiandae assumenda repellat eaque provident doloremque nesciunt, ipsam quas fuga. Ullam, eaque!"
     },
     {
       "id": 7,
@@ -87,8 +88,8 @@
       "albums": 7,
       "label": "Roadrunner Records",
       "subgenre": "Progressive Metal",
-      "img": "/assets/gojira.png"
-
+      "img": "/assets/gojira.png",
+      "history": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo odio ut quisquam eveniet quo culpa, sint facilis, reiciendis repudiandae assumenda repellat eaque provident doloremque nesciunt, ipsam quas fuga. Ullam, eaque!"
     },
     {
       "id": 8,
@@ -100,8 +101,8 @@
       "albums": 8,
       "label": "Reprise Records",
       "subgenre": "Progressive Metal",
-      "img": "/assets/mastodon.png"
-
+      "img": "/assets/mastodon.png",
+      "history": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo odio ut quisquam eveniet quo culpa, sint facilis, reiciendis repudiandae assumenda repellat eaque provident doloremque nesciunt, ipsam quas fuga. Ullam, eaque!"
     },
     {
       "id": 9,
@@ -113,8 +114,8 @@
       "albums": 10,
       "label": "Nuclear Blast",
       "subgenre": "Power Metal",
-      "img": "/assets/sabaton.png"
-
+      "img": "/assets/sabaton.png",
+      "history": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo odio ut quisquam eveniet quo culpa, sint facilis, reiciendis repudiandae assumenda repellat eaque provident doloremque nesciunt, ipsam quas fuga. Ullam, eaque!"
     },
     {
       "id": 10,
@@ -126,8 +127,8 @@
       "albums": 6,
       "label": "Epitaph Records",
       "subgenre": "Metalcore",
-      "img": "/assets/parkwaydrive.png"
-
+      "img": "/assets/parkwaydrive.png",
+      "history": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo odio ut quisquam eveniet quo culpa, sint facilis, reiciendis repudiandae assumenda repellat eaque provident doloremque nesciunt, ipsam quas fuga. Ullam, eaque!"
     },
     {
       "id": 11,
@@ -139,8 +140,8 @@
       "albums": 10,
       "label": "Roadrunner Records",
       "subgenre": "Metalcore",
-      "img": "/assets/trivium.png"
-
+      "img": "/assets/trivium.png",
+      "history": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo odio ut quisquam eveniet quo culpa, sint facilis, reiciendis repudiandae assumenda repellat eaque provident doloremque nesciunt, ipsam quas fuga. Ullam, eaque!"
     }
   ]
 }

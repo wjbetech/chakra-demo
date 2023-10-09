@@ -1,4 +1,4 @@
-import { useLoaderData } from "react-router-dom";
+import { useLoaderData, Link } from "react-router-dom";
 import {
   SimpleGrid,
   Text,
@@ -46,9 +46,11 @@ export default function Dashboard() {
           </CardBody>
           <CardFooter>
             <ButtonGroup spacing='2'>
-              <Button leftIcon={<ViewIcon />} variant="outline" colorScheme="green">
-                View
-              </Button>
+              <Link to="/profile">
+                <Button leftIcon={<ViewIcon />} variant="outline" colorScheme="green">
+                  View
+                </Button>
+              </Link>
             </ButtonGroup>
           </CardFooter>
         </Card>
