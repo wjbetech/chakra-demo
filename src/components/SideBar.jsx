@@ -1,4 +1,4 @@
-import { List, ListIcon, ListItem } from "@chakra-ui/react"
+import { List, ListIcon, ListItem, Text } from "@chakra-ui/react"
 import { AddIcon, EmailIcon } from "@chakra-ui/icons"
 import { NavLink } from "react-router-dom"
 
@@ -6,19 +6,19 @@ export default function SideBar() {
   return (
     <List fontSize="1.25em">
       <ListItem fontSize="34px" marginBottom={4}>
-        <NavLink to="/">
-          Metaltopia
-        </NavLink>
+        <Text>
+          Menu
+        </Text>
       </ListItem>
       <ListItem marginBottom={4}>
         <NavLink to="/">
-          <ListIcon as={AddIcon}></ListIcon>
+          <ListIcon as={AddIcon} m="0 15px 3px 0"></ListIcon>
           Add Band
         </NavLink>
       </ListItem>
       <ListItem marginBottom={4}>
         <NavLink to="/">
-          <ListIcon as={EmailIcon}></ListIcon>
+          <ListIcon as={EmailIcon} m="0 15px 3px 0"></ListIcon>
           Contact
         </NavLink>
       </ListItem>
