@@ -11,13 +11,13 @@ export default function SideBar() {
         </Text>
       </ListItem>
       <ListItem marginBottom={4}>
-        <NavLink to="/">
+        <NavLink to="/add-band">
           <ListIcon as={AddIcon} m="0 15px 3px 0"></ListIcon>
           Add Band
         </NavLink>
       </ListItem>
       <ListItem marginBottom={4}>
-        <NavLink to="/">
+        <NavLink to="/contact">
           <ListIcon as={EmailIcon} m="0 15px 3px 0"></ListIcon>
           Contact
         </NavLink>

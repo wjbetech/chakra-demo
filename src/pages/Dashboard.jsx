@@ -20,9 +20,9 @@ export default function Dashboard() {
   const bands = useLoaderData()
 
   return (
-    <SimpleGrid gap="25px" mx="3px" mb="30px" minChildWidth="300px" bg="#E2E8F0">
+    <SimpleGrid gap="25px" mx="3px" mb="30px" minChildWidth="300px">
       {bands && bands.map(b => (
-        <Card key={b.id} maxW='sm' bg="blackAlpha.300" boxShadow="0 10px 20px rgba(0, 0, 0, 0.5)" borderLeft="8px solid #38A169">
+        <Card key={b.id} maxW='sm' bg="#fff" boxShadow="0 10px 20px rgba(0, 0, 0, 0.5)" borderLeft="8px solid #38A169">
           <HStack>
             <Flex align="end" p="10px 20px 0 20px" gap="15px">
               <Heading size='lg'>{b.name}</Heading>
@@ -39,7 +39,7 @@ export default function Dashboard() {
               objectFit="cover"
             />
             <Stack mt={4} fontSize="18px">
-              <Text>
+              <Text fontWeight="500">
                 {b.subgenre}
               </Text>
             </Stack>
@@ -47,7 +47,7 @@ export default function Dashboard() {
           <CardFooter>
             <ButtonGroup spacing='2'>
               <Link to="/profile">
-                <Button leftIcon={<ViewIcon />} variant="outline" colorScheme="green">
+                <Button leftIcon={<ViewIcon />}  colorScheme="green">
                   View
                 </Button>
               </Link>

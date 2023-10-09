@@ -5,7 +5,7 @@ import { Grid, GridItem } from "@chakra-ui/react"
 
 export default function Layout() {
   return (
-    <Grid templateColumns="repeat(6, 1fr)">
+    <Grid templateColumns="repeat(6, 1fr)" bg="gray.300">
       <GridItem
         as="aside"
         colSpan={{ base: 6, lg: 1 }}
