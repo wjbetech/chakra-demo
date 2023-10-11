@@ -1,9 +1,6 @@
 import { Tab, Tabs, TabList, TabPanel, TabPanels, List, ListItem, Image } from "@chakra-ui/react";
-import { useLoaderData } from "react-router-dom";
 
 export default function Profile() {
-
-  const bands = useLoaderData()
 
   return (
     <Tabs mt="40px" p="20px" colorScheme="green" variant="enclosed">
@@ -20,13 +17,13 @@ export default function Profile() {
         {/* band info tab */}
         <TabPanel m="30px 0 0 0" w="50%">
           <List>
-            <ListItem bg="gray.300" fontSize="25px" p="7px 15px">
+            <ListItem fontSize="25px" p="7px 15px">
               Band Name:
             </ListItem>
             <ListItem fontSize="25px" p="7px 15px">
               Year Formed:
             </ListItem>
-            <ListItem bg="gray.300" fontSize="25px" p="7px 15px">
+            <ListItem fontSize="25px" p="7px 15px">
               Genre:
             </ListItem>
             <ListItem fontSize="25px" p="7px 15px">
@@ -47,7 +44,7 @@ export default function Profile() {
               objectFit="cover"
               mb="45px"
             />
-            <ListItem bg="gray.300" fontSize="25px" p="7px 15px">
+            <ListItem fontSize="25px" p="7px 15px">
               Year Formed:
             </ListItem>
             <ListItem fontSize="22px" p="7px 15px">
